@@ -1,0 +1,11 @@
+# 数据集与训练输出不进版本库
+mask_repo/
+datasets/
+runs/
+
+# YOLO 预训练权重（首次训练自动下载）
+yolov8n.pt
+
+# Python 缓存
+__pycache__/
+*.pyc
