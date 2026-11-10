@@ -9,3 +9,6 @@ yolov8n.pt
 # Python 缓存
 __pycache__/
 *.pyc
+
+# IDE 本地配置
+.idea/
