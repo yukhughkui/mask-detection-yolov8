@@ -1,5 +1,8 @@
 # 口罩实时检测（YOLOv8n）
 
+**在线体验（免安装，点开即用）**：https://yukhughkui.github.io/mask-detection-yolov8/
+—— 模型在浏览器本地运行，摄像头实时检测或上传图片均可，图像不会上传到任何服务器。
+
 摄像头实时口罩检测：**戴了口罩画绿框 "Mask OK"，没戴画红框 "NO Mask!"**，左上角实时显示 FPS，按 `q` 退出。
 
 在 [archie9211/Mask-Detection-Dataset](https://github.com/archie9211/Mask-Detection-Dataset)
